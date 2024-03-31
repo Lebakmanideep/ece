@@ -1,0 +1,5 @@
+Run these in MySQL workbench before running project.
+
+DROP SCHEMA IF EXISTS `e-commerce-site`;
+
+CREATE SCHEMA `e-commerce-site`;
